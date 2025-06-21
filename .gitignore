@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+*.bak
+*.swp
+
+# Build artifacts
+build/
+acfo.egg-info
